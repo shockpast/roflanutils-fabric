@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"me.shockpast.Roflanutils"
+			"me.shockpast.Roflan"
 		],
 		"client": [
-			"me.shockpast.RoflanutilsClient"
+			"me.shockpast.RoflanClient"
 		],
 		"fabric-datagen": [
-			"me.shockpast.RoflanutilsDataGenerator"
+			"me.shockpast.RoflanDataGenerator"
 		]
 	},
 	"mixins": [

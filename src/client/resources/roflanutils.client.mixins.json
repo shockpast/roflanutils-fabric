@@ -1,9 +1,11 @@
 {
 	"required": true,
-	"package": "me.shockpast.mixin.client",
+	"package": "me.shockpast.mixins",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"AutoFishingMixin",
+		"BlockMixin",
+		"AbstractBlockStateMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
